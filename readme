@@ -1,0 +1,9 @@
+To run it fully, a web server is needed. I used XAMPP on my machine.
+
+I mixed a little bit of everything. Classes, file distribution and global constants.
+Projects can look as fancy as you wish, but the reality is that you find inline JS in HTMLs,
+so I just wanted to demonstrate that I know, and that I am able to work with different kind of architectures.
+
+I used "console.log" as application log, in PHP we could use error_log() as well
+
+As PHP is used in the server, there can not be delay in the execution of code. I could use sleep() but then the customer could not ask for new drinks. So I did a frontend simulation.
