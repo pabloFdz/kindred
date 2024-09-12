@@ -7,3 +7,7 @@ so I just wanted to demonstrate that I know, and that I am able to work with dif
 I used "console.log" as application log, in PHP we could use error_log() as well
 
 As PHP is used in the server, there can not be delay in the execution of code. I could use sleep() but then the customer could not ask for new drinks. So I did a frontend simulation.
+
+
+Added: I forgot to mention that in order to make the program available for multiple users I could have used memcache, but due to the timing and hardware issues I was not able to set it up
+Also, as you can see, I did not build a fancy UI at all, but if you would like to see it I could change the design so you can see some DOM manipulation as well.
